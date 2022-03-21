@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "spicacorp-dev-controller"
+description: "CloudBees CI configuration bundle for the spicacorp dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/spicacorp/dev-controller"
+parent: "base"
